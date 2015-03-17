@@ -1,0 +1,2 @@
+data/screensaver_bin/* /usr/share/applications/screensavers/
+data/screensaver_png/* /usr/share/huayra-screensavers/

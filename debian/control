@@ -1,0 +1,12 @@
+Source: huayra-primaria-screensaver
+Section: x11
+Priority: extra
+Maintainer: Javier Castrillo <riverplatense@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: huayra-primaria-screensaver
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Screensaver por defecto de Huayra Primaria 1.0
+ Screensaver por defecto de Huayra Primaria 1.0
